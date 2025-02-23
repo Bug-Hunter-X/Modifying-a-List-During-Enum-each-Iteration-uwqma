@@ -1,0 +1,1 @@
+This example demonstrates a common issue in Elixir where attempting to modify a list during iteration with `Enum.each` does not produce the expected result. The solution showcases a more idiomatic approach using `Enum.filter` to achieve the desired list transformation.
